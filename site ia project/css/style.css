@@ -1,0 +1,323 @@
+
+h1.bigtitle{
+	font-weight: 700;
+	font-size: 130px;
+	font-family: 'Libre Franklin', sans-serif;
+}
+
+
+
+h1.title1
+{
+	font-family: 'Play', sans-serif;
+	font-size: 40px;
+}
+
+img.robot1
+{
+	float: right;
+	line-height: !important;
+}
+
+
+p.para1
+{
+	font-family: 'PT Sans Caption', sans-serif;
+	font-size: 20px;
+}
+
+h1.title2
+{
+	font-family: 'Play', sans-serif;
+	font-size: 40px;
+}
+
+p.para2
+{
+	font-family: 'PT Sans Caption', sans-serif;
+	font-size: 20px;
+}
+
+dt.shesh{
+	font-family: 'PT Sans Caption', sans-serif;
+	font-size: 20px;
+	margin: 25px;
+}
+
+img.banniere{
+	margin-left: auto;
+	}
+
+
+h1.aa{
+	color: black;
+	font-family: 'Play', sans-serif;
+	font-size: 65px;
+}
+
+h1.title3{
+	font-family: 'Play', sans-serif;
+	font-size: 40px;
+}
+
+p.para3{
+	font-family: 'PT Sans Caption', sans-serif;
+	font-size: 20px;
+	margin: 25px;
+}
+
+dt.numero1{
+	font-family: 'PT Sans Caption', sans-serif;
+	font-size: 20px;
+}
+
+p.présentationliste{
+	font-family: 'PT Sans Caption', sans-serif;
+	font-size: 20px;
+	margin: 25px;
+}
+
+dt.numero2{
+	font-family: 'PT Sans Caption', sans-serif;
+	font-size: 20px;
+}
+
+dt.numero3{
+	font-family: 'PT Sans Caption', sans-serif;
+	font-size: 20px;
+}
+
+h1.title4{
+	font-family: 'PT Sans Caption', sans-serif;
+	font-size: 40px;
+}
+
+h1.copie1{
+	font-family: 'Play', sans-serif;
+	font-size: 40px;
+}
+
+p.copie2{
+	font-family: microsoft sans serif;
+	font-size: 20px;
+}
+
+p.copie3{
+	font-family: microsoft sans serif;
+	font-size: 20px;
+}
+
+
+h3.damn{
+	font-family: 'PT Sans Caption', sans-serif;
+	font-size: 20px;
+}
+
+
+h1.nouveautetitle1{
+	color: black;
+	font-family: 'PT Sans Caption', sans-serif;
+}
+
+p.para11{
+	font-family: 'PT Sans Caption', sans-serif;
+	font-size: 20px;
+	margin: 15px;
+}
+
+
+h2.nouveautetitle2{
+	color: black;
+	font-family: 'PT Sans Caption', sans-serif;
+	margin: 15px;
+}
+
+h3.nouveautetitle3{
+	color: black;
+	font-family: 'PT Sans Caption', sans-serif;
+	margin: 15px;
+}
+
+p.para12{
+	font-family: 'PT Sans Caption', sans-serif;
+	font-size: 20px;
+	margin: 25px;
+
+}
+
+h3.nouveautetitle4{
+	color: black;
+	font-family: 'PT Sans Caption', sans-serif;
+	margin: 15px;
+}
+
+p.para13{
+	font-family: 'PT Sans Caption', sans-serif;
+	font-size: 20px;
+	margin: 25px;
+}
+
+h3.nouveautetitle5{
+	color: black;
+	font-family: 'PT Sans Caption', sans-serif;
+	margin: 15px;
+}
+
+p.para14{
+	font-family: 'PT Sans Caption', sans-serif;
+	font-size: 20px;
+	margin: 25px;
+}
+
+h3.nouveautetitle6{
+	color: black;
+	font-family: 'PT Sans Caption', sans-serif;
+	margin: 15px;
+}
+
+p.para15{
+	font-family: 'PT Sans Caption', sans-serif;
+	font-size: 20px;
+	margin: 25px;
+}
+
+h3.nouveautetitle7{
+	color: black;
+	font-family: 'PT Sans Caption', sans-serif;
+	margin: 15px;
+}
+
+p.para16{
+	font-family: 'PT Sans Caption', sans-serif;
+	font-size: 20px;
+	margin: 25px;
+}
+
+h3.nouveautetitle8{
+	color: black;
+	font-family: 'PT Sans Caption', sans-serif;
+	margin: 15px;
+}
+
+p.para17{
+	font-family: 'PT Sans Caption', sans-serif;
+	font-size: 20px;
+	margin: 25px;
+}
+
+h3.nouveautetitle9{
+	color: black;
+	font-family: 'PT Sans Caption', sans-serif;
+	margin: 15px;
+}
+
+p.para18{
+	font-family: 'PT Sans Caption', sans-serif;
+	font-size: 20px;
+	margin: 25px;
+}
+
+h3.nouveautetitle10{
+	color: black;
+	font-family: 'PT Sans Caption', sans-serif;
+	margin: 15px;
+}
+
+
+p.para19{
+	font-family: 'PT Sans Caption', sans-serif;
+	font-size: 20px;
+	margin: 25px;
+}
+
+h3.nouveautetitle11{
+	color: black;
+	font-family: 'PT Sans Caption', sans-serif;
+	margin: 15px;
+}
+
+p.para20{
+	font-family: 'PT Sans Caption', sans-serif;
+	font-size: 20px;
+	margin: 25px;
+}
+
+h3.nouveautetitle12{
+	color: black;
+	font-family: 'PT Sans Caption', sans-serif;
+	font-size: 30px;
+}
+
+p.intro1{
+	font-family: 'PT Sans Caption', sans-serif;
+	font-size: 20px;
+	margin: 25px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #7d5cff;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-family: 'PT Sans Caption', sans-serif;
+}
+
+li a:hover:not(.active) {
+    background-color: #6e00eb;
+}
+
+.active {
+    background-color: #005f9d;
+}
+div style="padding:20px;margin-top:30px;background-color:#1abc9c;height:1500px;">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
